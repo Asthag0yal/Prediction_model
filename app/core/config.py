@@ -13,4 +13,4 @@ class Settings:
     MODEL_PATH = 'app/models/model.pkl'
 
 
-    settings = Settings()
+settings = Settings()
